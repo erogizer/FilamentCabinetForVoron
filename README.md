@@ -3,6 +3,8 @@
 The filament storage box located on top of Voron2.4 has a built-in buffer and filament drying unit for the multi-color system.  
 It forms a sense of unity with the printer as a whole.
 
+<img width="400" src="https://github.com/erogizer/FilamentCabinetForVoron/blob/main/Photos/V2_complete.jpg" alt="Complete1"> <img width="400" src="https://github.com/erogizer/FilamentCabinetForVoron/blob/main/Photos/V2_complete2.jpg" alt="Complete2">
+
 The advantage is that it looks good and is usable,  
 The disadvantage is that it is narrow and difficult to change the spool.  
 It would be good to change the mode used according to the frame height.
@@ -24,7 +26,3 @@ The mods used here are as follows.
     - TH_checker_case
     - Spool Supports
     - SpoolHolder
-
-![Version2_complete](https://github.com/erogizer/FilamentCabinetForVoron/blob/main/Photos/V2_complete.jpg?type=w400)
-
-![Version2_complete2](https://github.com/erogizer/FilamentCabinetForVoron/blob/main/Photos/V2_complete2.jpg?type=w400)
