@@ -11,8 +11,17 @@ It would be good to change the mode used according to the frame height.
 
 This is a combination of mods made by the Voron friends.   
 The mods used here are as follows.  
+  
+    
+For Voron2.4 300mm what I used...  
 
-**MOD used..
+**Extrusion**
+1. Frame : 420(TPW)-8, 300(RCP-LCP)-4  
+2. ERCF : 420(TPW)-2  
+3. ERCP : 420(TPW)-2  
+4. ETC : 420(TPW)-1  
+
+**MOD**
 1. <a href="https://github.com/EtteGit/EnragedRabbitProject">EnragedRabbitProject</a>  
 2. <a href="https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array">Carrot_Patch_array</a>  
 3. PanelMount <a href="https://github.com/elpopo-eng/VoronFrenchUsers/tree/main/Mod/RemovableDoor">RemovableDoor</a>  
