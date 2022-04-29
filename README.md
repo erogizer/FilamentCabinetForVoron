@@ -11,17 +11,19 @@ This is a combination of mods made by the Voron friends.
 The mods used here are as follows.  
 
 **MOD used..
-1. EnragedRabbitProject&nbsp; - https://github.com/EtteGit/EnragedRabbitProject
-2. Carrot_Patch_array&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array  
-5. Panel Mount&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - https://github.com/elpopo-eng/VoronFrenchUsers/tree/main/Mod/RemovableDoor  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - https://www.printables.com/model/84734-magnetic-panel-clip-for-voron-24  
-4. PTC_Heater_Case&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - https://www.thingiverse.com/thing:4157564  
-5. Filament_spool_holder - https://www.printables.com/model/38423-variable-multi-filament-spool-holder  
+1. <a href="https://github.com/EtteGit/EnragedRabbitProject">EnragedRabbitProject</a>  
+2. <a href="https://github.com/probably-Erwins-Cat/ERCF-Buffer-Array">Carrot_Patch_array</a>  
+3. PanelMount <a href="https://github.com/elpopo-eng/VoronFrenchUsers/tree/main/Mod/RemovableDoor">RemovableDoor</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020">SnapLatch</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.printables.com/model/84734-magnetic-panel-clip-for-voron-24">MagneticClip</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.thingiverse.com/thing:4157564">MicroPTCHeaterCase</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.printables.com/model/38423-variable-multi-filament-spool-holder">FilamentSpoolHolder</a>  
 6. ETC  
     - Tube Guide
     - Exhaust Grill
     - TH_checker_case
     - Spool Supports
     - SpoolHolder
+
+![version1](https://postfiles.pstatic.net/MjAyMTAzMDRfNjcg/MDAxNjE0ODM2MTYzMzY0.UdaGfGPo9G2MsKGqtreA6oXhhdVRHFZ2PtL59xh-Aswg.KFlH6ZfLfjipM18yPRVFtjkGBx9rm29PihqU8YeWp4wg.GIF.naver_diary/NEW_M_%EA%B2%BD%EC%B9%A9_3x.gif?type=w773)
 
