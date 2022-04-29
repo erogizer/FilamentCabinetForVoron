@@ -25,5 +25,5 @@ The mods used here are as follows.
     - Spool Supports
     - SpoolHolder
 
-![version1](https://postfiles.pstatic.net/MjAyMTAzMDRfNjcg/MDAxNjE0ODM2MTYzMzY0.UdaGfGPo9G2MsKGqtreA6oXhhdVRHFZ2PtL59xh-Aswg.KFlH6ZfLfjipM18yPRVFtjkGBx9rm29PihqU8YeWp4wg.GIF.naver_diary/NEW_M_%EA%B2%BD%EC%B9%A9_3x.gif?type=w773)
+![Version2_complete](https://github.com/erogizer/FilamentCabinetForVoron/Photos/V2_complete?type=w773)
 
