@@ -3,7 +3,7 @@
 *.cs diff=csharp text
 *.cginc text
 *.shader text
-
+CAD/*.f3d filter=lfs diff=lfs merge=lfs -text
 *.mat merge=unityyamlmerge eol=lf
 *.anim merge=unityyamlmerge eol=lf
 *.unity merge=unityyamlmerge eol=lf
@@ -55,4 +55,3 @@
 *.rns filter=lfs diff=lfs merge=lfs -text
 *.reason filter=lfs diff=lfs merge=lfs -text
 *.lxo filter=lfs diff=lfs merge=lfs -text
-[출처] git에 100mb 넘는 파일 올리기|작성자 사자
