@@ -35,3 +35,6 @@ For Voron2.4 300mm what I used...
     - TH_checker_case
     - Spool Supports
     - SpoolHolder
+    - Sonoff BASICZBR3 holder  
+    - Sonoff SNZB-02 holder  
+    
